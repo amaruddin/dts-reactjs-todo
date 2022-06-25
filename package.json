@@ -1,7 +1,7 @@
 {
     "name": "todo-app",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": "http://amaruddin.github.io/dts-reactjs-todo",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
